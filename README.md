@@ -4,9 +4,9 @@
   <a href="https://github.com/rawatishan07">
     <img src="https://img.shields.io/badge/View%20My-Projects-blue?style=for-the-badge">
   </a>
-  <a href="mailto:rawatishan510@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge">
-  </a>
+  <a href="mailto:rawatishan510@gmail.com?subject=Hello%20Ishan" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge">
+</a>
   <a href="https://www.linkedin.com/in/ishan-rawat-4ba037397/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
