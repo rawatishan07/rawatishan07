@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ishan Rawat</h1>
 <h3 align="center">A Developer in the making 💻</h3>
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/rawatishan07">
     <img src="https://img.shields.io/badge/View%20My-Projects-blue?style=for-the-badge">
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:rawatishan07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/ishan-rawat-4ba037397">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
 </p>
