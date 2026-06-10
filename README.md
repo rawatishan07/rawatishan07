@@ -1,32 +1,107 @@
-<h1 align="center">Hi 👋, I'm Ishan Rawat</h1>
-<h3 align="center">A Developer in the making 💻</h3>
+# Hi there 👋, I'm Ishan Rawat
+
+<h3 align="center">💻Code. Build. Improve. | Developer in Progress | Creating Practical Solutions | From Logic to Interface | Tech Explorer</h3>
+
 <p align="center">
   <a href="https://github.com/rawatishan07">
-    <img src="https://img.shields.io/badge/View%20My-Projects-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:rawatishan510@gmail.com?subject=Hello%20Ishan" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge">
-</a>
+
+  <a href="mailto:rawatishan510@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
   <a href="https://www.linkedin.com/in/ishan-rawat-4ba037397/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🧐 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning **React.js**
-- 🧠 Interested in **DSA and Backend Development**
-- 🤝 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, JavaScript, OOP**
-- ⚡ Fun fact: I enjoy building real-world projects 🚀
+- 🎓 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning **React.js**
+- 🗄️ Exploring **SQL, Database Design, and Query Optimization**
+- 🧠 Practicing **Data Structures & Algorithms**
+- ⚙️ Interested in **Backend Development**
+- 🤝 Open to collaborating on **Open Source Projects**
+- 💡 Love building projects that solve real-world problems
+
 ---
+
 ## 🛠️ Tech Stack
 
-![React.js](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rawatishan07&show_icons=true&theme=tokyonight" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatishan07&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawatishan07&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Master React.js
+- 📚 Strengthen DSA Skills
+- 🏗️ Build Full Stack Projects
+- 🌟 Contribute to Open Source
+- 🗄️ Learn Advanced SQL & Database Optimization
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:rawatishan510@gmail.com">
+    📧 Email Me
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/ishan-rawat-4ba037397/">
+    💼 LinkedIn Profile
+  </a>
+</p>
+
+---
+
+### 💡 Quote I Live By
+
+> "The best way to learn programming is by building things."
+
+⭐ If you like my projects, consider starring them!
