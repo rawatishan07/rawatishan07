@@ -61,9 +61,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rawatishan07&show_icons=true&theme=tokyonight" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatishan07&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rawatishan07&theme=tokyonight"
+    height="200"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rawatishan07&theme=tokyonight"
+    height="200"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
