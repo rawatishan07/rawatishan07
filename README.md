@@ -67,10 +67,10 @@ Building practical applications, working with data, and continuously improving m
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="48" height="48" alt="Google Sheets"/>
-  
+  <img src="https://images.ctfassets.net/lzny33ho1g45/1d2ScS0XusebtTq7GvoL2T/e9a02b509830e61aa0161c83a763ef90/google_sheets.jpg?w=96&h=96&fit=fill" width="48" height="48" alt="Google Sheets" style="border-radius:8px;object-fit:cover;"/>
+
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Google_Apps_Script.svg" width="48" height="48" alt="Google Apps Script"/>
-  
+
   <img src="https://www.svgrepo.com/show/353809/google-data-studio.svg" width="48" height="48" alt="Google Data Studio"/>
 </p>
 
@@ -128,7 +128,7 @@ Working with datasets to extract meaningful insights and present them through in
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rawatishan07&theme=tokyonight&hide_border=true" alt="GitHub Streak Card"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=rawatishan07&theme=tokyonight&hide_border=true" alt="GitHub Streak Card"/>
 
 </div>
 
@@ -147,7 +147,7 @@ Working with datasets to extract meaningful insights and present them through in
 ## 📚 What I'm Learning
 
 | Area           | Current Focus                           |
-| -------------- | --------------------------------------- |
+| -------------- | ---------------------------------------- |
 | ⚛️ Frontend    | React.js & Component Design             |
 | 🐍 Programming | Python & JavaScript                     |
 | 🧠 DSA         | Data Structures & Problem Solving       |
