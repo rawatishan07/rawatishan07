@@ -134,16 +134,6 @@ Working with datasets to extract meaningful insights and present them through in
 
 ---
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rawatishan07&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
 ## 📚 What I'm Learning
 
 | Area           | Current Focus                           |
