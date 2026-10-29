@@ -127,40 +127,22 @@ A browser-based game using randomized numbers and interactive feedback to guide 
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/rawatishan07">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rawatishan07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rawatishan07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="GitHub Statistics" height=210/>
 </a>
 <a href="https://github.com/rawatishan07">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatishan07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rawatishan07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height=210px/>
 </a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rawatishan07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=rawatishan07&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rawatishan07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## ⭐ Repository Spotlight
-
-<div align="center">
-
-<a href="https://github.com/rawatishan07?tab=repositories">
-<img src="https://img.shields.io/badge/⭐%20EXPLORE%20MY%20REPOSITORIES-View%20Projects-7C3AED?style=for-the-badge&logo=github" alt="Explore repositories"/>
-</a>
-
-</div>
-
-Pin your strongest projects on your GitHub profile so visitors can quickly find your best work.
+</div><br/><br/>
 
 ---
 
